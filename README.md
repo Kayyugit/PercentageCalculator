@@ -1,4 +1,5 @@
 # PercentageCalculator
 Simple percentage calculator
 
-simple youtube tutorial
+This is a very simple percentage calculator created for practice purposes.
+As you can see, it's very basic with no real funtionality but as a practice exercise to convert formulas into code as well as using them.
